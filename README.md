@@ -41,6 +41,10 @@ Run the game:
 
 ### ✅ Case 1: Human Wins  
 ```text
+
+Welcome to Tic Tac Toe!
+Enter your name: Sujeet
+
 X | X | X
 --+---+--
 O |   |  
